@@ -1,7 +1,7 @@
 {
-  "name": "portal_noticias",
+  "name": "devstagram",
   "version": "1.0.0",
-  "description": "Site de Noticias",
+  "description": "Api do Devstagram",
   "main": "app.js",
   "dependencies": {
     "body-parser": "^1.18.3",
@@ -13,7 +13,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node start",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Junior Silva",
